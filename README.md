@@ -34,7 +34,7 @@ Follow these files in order for the best learning experience:
 - ✅ **Beginner-friendly language**
 - ✅ **No assumptions about prior knowledge**
 
-## 🛠 How to Use This Repository
+## How to Use This Repository
 
 1. **Start with File 01** and progress sequentially
 2. **Type code examples** yourself don't just read!
