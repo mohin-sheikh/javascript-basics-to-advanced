@@ -1,4 +1,4 @@
-# JavaScript Arrays - Complete Guide
+# JavaScript Arrays Complete Guide
 
 ## Table of Contents
 - [What are Arrays?](#what-are-arrays)

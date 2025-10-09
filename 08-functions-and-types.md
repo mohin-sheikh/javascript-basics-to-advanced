@@ -1,4 +1,4 @@
-# JavaScript Functions - Complete Guide
+# JavaScript Functions Complete Guide
 
 ## Table of Contents
 - [What are Functions?](#what-are-functions)
