@@ -24,6 +24,9 @@ Follow these files in order for the best learning experience:
 10. **[`10-timing-events.md`](10-timing-events.md)** - setTimeout and setInterval
 11. **[`11-callback-functions.md`](11-callback-functions.md)** - Callback functions and patterns
 12. **[`12-promises-complete-guide.md`](12-promises-complete-guide.md)** - Promises and async programming
+13. **[`13-es6-features.md`](13-es6-features.md)** - Modern JavaScript features
+14. **[`14-constructors-and-classes.md`](14-constructors-and-classes.md)** - Constructors and classes
+15. **[`15-closures-simple-guide.md`](15-closures-simple-guide.md)** - Understanding closures
 
 
 ## Features
