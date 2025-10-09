@@ -17,7 +17,13 @@ Follow these files in order for the best learning experience:
 3. **[`03-data-types.md`](03-data-types.md)** - Understanding different data types
 4. **[`04-template-literals-operators.md`](04-template-literals-operators.md)** - String templates and operators
 5. **[`05-string-methods.md`](05-string-methods.md)** - Working with strings effectively
-6. **[`06-shallow-deep-copy.md`](06-shallow-deep-copy.md)** - Copying objects and arrays
+6. **[`06-objects-and-crud.md`](06-objects-and-crud.md)** - Objects and basic CRUD operations
+7. **[`07-shallow-deep-copy.md`](07-shallow-deep-copy.md)** - Copying objects and arrays
+8. **[`08-functions-and-types.md`](08-functions-and-types.md)** - Functions and different function types
+9. **[`09-arrays-and-methods.md`](09-arrays-and-methods.md)** - Arrays and array methods
+10. **[`10-timing-events.md`](10-timing-events.md)** - setTimeout and setInterval
+11. **[`11-callback-functions.md`](11-callback-functions.md)** - Callback functions and patterns
+12. **[`12-promises-complete-guide.md`](12-promises-complete-guide.md)** - Promises and async programming
 
 
 ## Features

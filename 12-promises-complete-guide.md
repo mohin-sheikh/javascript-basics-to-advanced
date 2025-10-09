@@ -1,4 +1,4 @@
-# JavaScript Promises - Complete Guide
+# JavaScript Promises
 
 ## Table of Contents
 - [What are Promises?](#what-are-promises)

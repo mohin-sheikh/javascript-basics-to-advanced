@@ -1,4 +1,4 @@
-# JavaScript Callback Functions - Complete Guide
+# JavaScript Callback Functions
 
 ## Table of Contents
 - [What are Callback Functions?](#what-are-callback-functions)
