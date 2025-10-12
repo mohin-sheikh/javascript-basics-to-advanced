@@ -27,6 +27,8 @@ Follow these files in order for the best learning experience:
 13. **[`13-es6-features.md`](13-es6-features.md)** - Modern JavaScript features
 14. **[`14-constructors-and-classes.md`](14-constructors-and-classes.md)** - Constructors and classes
 15. **[`15-closures-simple-guide.md`](15-closures-simple-guide.md)** - Understanding closures
+16. **[`16-for-loops-simple-guide.md`](16-for-loops-simple-guide.md)** - Simple for loops and patterns
+17. **[`17-for-in-for-of-loops.md`](17-for-in-for-of-loops.md)** - For...in vs For...of loops
 
 
 ## Features
