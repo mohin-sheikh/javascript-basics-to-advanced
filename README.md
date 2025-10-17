@@ -23,13 +23,13 @@ Follow these files in order for the best learning experience:
 9. **[`09-arrays-and-methods.md`](09-arrays-and-methods.md)** - Arrays and array methods
 10. **[`10-timing-events.md`](10-timing-events.md)** - setTimeout and setInterval
 11. **[`11-callback-functions.md`](11-callback-functions.md)** - Callback functions and patterns
-12. **[`12-promises-complete-guide.md`](12-promises-complete-guide.md)** - Promises and async programming
+12. **[`12-promises.md`](12-promises.md)** - Promises and async programming
 13. **[`13-es6-features.md`](13-es6-features.md)** - Modern JavaScript features
 14. **[`14-constructors-and-classes.md`](14-constructors-and-classes.md)** - Constructors and classes
 15. **[`15-closures-simple-guide.md`](15-closures-simple-guide.md)** - Understanding closures
 16. **[`16-for-loops-simple-guide.md`](16-for-loops-simple-guide.md)** - Simple for loops and patterns
 17. **[`17-for-in-for-of-loops.md`](17-for-in-for-of-loops.md)** - For...in vs For...of loops
-17. **[`18-math-methods-complete-guide.md`](18-math-methods-complete-guide.md)** - Comprehensive guide to Math methods
+17. **[`18-math-methods.md`](18-math-methods.md)** - Comprehensive guide to Math methods
 
 
 ## Features
