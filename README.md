@@ -12,7 +12,7 @@ Follow these files in order for the best learning experience:
 
 ### Foundation Series (Start Here)
 
-1. **[`01-introduction.md`](01-introduction.md)** - Getting started with JavaScript
+1. **[`01-introduction-to-javascript.md`](01-introduction-to-javascript.md)** - Getting started with JavaScript
 2. **[`02-variables-and-scope.md`](02-variables-and-scope.md)** - Variables, declaration, and scope
 3. **[`03-data-types.md`](03-data-types.md)** - Understanding different data types
 4. **[`04-template-literals-operators.md`](04-template-literals-operators.md)** - String templates and operators
@@ -67,4 +67,4 @@ Follow these files in order for the best learning experience:
 
 
 ---
-*Start with [`01-introduction.md`](01-introduction.md) and begin your JavaScript journey today!*
+*Start with [`01-introduction-to-javascript.md`](01-introduction-to-javascript.md) and begin your JavaScript journey today!*
