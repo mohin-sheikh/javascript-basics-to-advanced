@@ -17,7 +17,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 3. **[`03-data-types.md`](03-data-types.md)** - The 8 data types and typeof
 4. **[`04-operators.md`](04-operators.md)** - Arithmetic, comparison and logical operators
 5. **[`05-type-conversion.md`](05-type-conversion.md)** - Converting between strings, numbers and booleans
-6. **Conditionals** - if, else, switch and the ternary operator *(coming soon)*
+6. **[`06-conditionals.md`](06-conditionals.md)** - if, else, switch and the ternary operator
 7. **[`07-loops.md`](07-loops.md)** - for, while, for...of and for...in loops
 8. **[`08-strings-and-template-literals.md`](08-strings-and-template-literals.md)** - Working with strings
 9. **[`09-numbers-and-math.md`](09-numbers-and-math.md)** - Numbers and Math methods
