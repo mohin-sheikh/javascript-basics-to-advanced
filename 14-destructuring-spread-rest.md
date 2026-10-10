@@ -44,7 +44,7 @@ const PI = 3.14159;
 // PI = 3.14; // Error: Assignment to constant
 ```
 
-**Detailed Explanation**: See [`02-variables-and-scope.md`](02-variables-and-scope.md)
+**Detailed Explanation**: See [`02-variables-and-comments.md`](02-variables-and-comments.md)
 
 ---
 
@@ -66,7 +66,7 @@ const add = (a, b) => a + b;
 - No `this` binding
 - Implicit return for single expressions
 
-**Detailed Explanation**: See [`08-functions-and-types.md`](08-functions-and-types.md)
+**Detailed Explanation**: See [`10-functions.md`](10-functions.md)
 
 ---
 
@@ -88,7 +88,7 @@ let html = `
 `;
 ```
 
-**Detailed Explanation**: See [`04-template-literals-operators.md`](04-template-literals-operators.md)
+**Detailed Explanation**: See [`08-strings-and-template-literals.md`](08-strings-and-template-literals.md)
 
 ---
 
@@ -164,7 +164,7 @@ function sum(...numbers) {
 sum(1, 2, 3, 4); // 10
 ```
 
-**Related**: See [`07-shallow-deep-copy.md`](07-shallow-deep-copy.md) for copying objects
+**Related**: See [`15-shallow-and-deep-copy.md`](15-shallow-and-deep-copy.md) for copying objects
 
 ---
 
@@ -186,7 +186,7 @@ function greet(name = 'Guest') {
 greet(); // "Hello Guest"
 ```
 
-**Detailed Explanation**: See [`08-functions-and-types.md`](08-functions-and-types.md)
+**Detailed Explanation**: See [`10-functions.md`](10-functions.md)
 
 ---
 
@@ -240,7 +240,7 @@ fetchData
     .catch(error => console.log(error));
 ```
 
-**Detailed Explanation**: See [`12-promises-complete-guide.md`](12-promises-complete-guide.md)
+**Detailed Explanation**: See [`24-promises.md`](24-promises.md)
 
 ---
 
@@ -326,7 +326,7 @@ const obj = {
 Array.from("hello"); // ['h', 'e', 'l', 'l', 'o']
 ```
 
-**Detailed Explanation**: See [`05-string-methods.md`](05-string-methods.md) and [`09-arrays-and-methods.md`](09-arrays-and-methods.md)
+**Detailed Explanation**: See [`08-strings-and-template-literals.md`](08-strings-and-template-literals.md) and [`12-arrays-and-array-methods.md`](12-arrays-and-array-methods.md)
 
 ---
 
@@ -387,13 +387,13 @@ Object.fromEntries([['a', 1], ['b', 2]]); // {a: 1, b: 2}
 
 | Feature | Purpose | File Reference |
 |---------|---------|----------------|
-| `let/const` | Better variable scoping | [`02-variables-and-scope.md`](02-variables-and-scope.md) |
-| **Arrow Functions** | Shorter function syntax | [`08-functions-and-types.md`](08-functions-and-types.md) |
-| **Template Literals** | String interpolation | [`04-template-literals-operators.md`](04-template-literals-operators.md) |
+| `let/const` | Better variable scoping | [`02-variables-and-comments.md`](02-variables-and-comments.md) |
+| **Arrow Functions** | Shorter function syntax | [`10-functions.md`](10-functions.md) |
+| **Template Literals** | String interpolation | [`08-strings-and-template-literals.md`](08-strings-and-template-literals.md) |
 | **Destructuring** | Extract values easily | - |
-| **Spread/Rest** | Copy and combine data | [`07-shallow-deep-copy.md`](07-shallow-deep-copy.md) |
+| **Spread/Rest** | Copy and combine data | [`15-shallow-and-deep-copy.md`](15-shallow-and-deep-copy.md) |
 | **Modules** | Code organization | - |
-| **Promises** | Async operations | [`12-promises-complete-guide.md`](12-promises-complete-guide.md) |
+| **Promises** | Async operations | [`24-promises.md`](24-promises.md) |
 | **Classes** | OOP syntax | - |
 
 ### Why Use ES6+?

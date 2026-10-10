@@ -8,29 +8,48 @@ This repository contains beginner-friendly JavaScript tutorials that break down 
 
 ## Learning Path
 
-Follow these files in order for the best learning experience:
+The course is being updated to a new order. Follow the sessions in this order:
 
-### Foundation Series (Start Here)
+### Part 1: Basics
 
-1. **[`01-introduction-to-javascript.md`](01-introduction-to-javascript.md)** - Getting started with JavaScript
+1. **[`01-introduction-to-javascript.md`](01-introduction-to-javascript.md)** - Getting started with JavaScript and Node.js
 2. **[`02-variables-and-comments.md`](02-variables-and-comments.md)** - Variables (let, const, var), naming and comments
-3. **[`03-data-types.md`](03-data-types.md)** - Understanding different data types
+3. **[`03-data-types.md`](03-data-types.md)** - The 8 data types and typeof
 4. **[`04-operators.md`](04-operators.md)** - Arithmetic, comparison and logical operators
-5. **[`05-string-methods.md`](05-string-methods.md)** - Working with strings effectively
-6. **[`06-objects-and-crud.md`](06-objects-and-crud.md)** - Objects and basic CRUD operations
-7. **[`07-shallow-deep-copy.md`](07-shallow-deep-copy.md)** - Copying objects and arrays
-8. **[`08-functions-and-types.md`](08-functions-and-types.md)** - Functions and different function types
-9. **[`09-arrays-and-methods.md`](09-arrays-and-methods.md)** - Arrays and array methods
-10. **[`10-timing-events.md`](10-timing-events.md)** - setTimeout and setInterval
-11. **[`11-callback-functions.md`](11-callback-functions.md)** - Callback functions and patterns
-12. **[`12-promises.md`](12-promises.md)** - Promises and async programming
-13. **[`13-es6-features.md`](13-es6-features.md)** - Modern JavaScript features
-14. **[`14-constructors-and-classes.md`](14-constructors-and-classes.md)** - Constructors and classes
-15. **[`15-closures-simple-guide.md`](15-closures-simple-guide.md)** - Understanding closures
-16. **[`16-for-loops-simple-guide.md`](16-for-loops-simple-guide.md)** - Simple for loops and patterns
-17. **[`17-for-in-for-of-loops.md`](17-for-in-for-of-loops.md)** - For...in vs For...of loops
-17. **[`18-math-methods.md`](18-math-methods.md)** - Comprehensive guide to Math methods
+5. **[`05-type-conversion.md`](05-type-conversion.md)** - Converting between strings, numbers and booleans
+6. **Conditionals** - if, else, switch and the ternary operator *(coming soon)*
+7. **[`07-loops.md`](07-loops.md)** - for, while, for...of and for...in loops
+8. **[`08-strings-and-template-literals.md`](08-strings-and-template-literals.md)** - Working with strings
+9. **[`09-numbers-and-math.md`](09-numbers-and-math.md)** - Numbers and Math methods
 
+### Part 2: Building Blocks
+
+10. **[`10-functions.md`](10-functions.md)** - Functions and function types
+11. **[`11-callbacks-and-higher-order-functions.md`](11-callbacks-and-higher-order-functions.md)** - Callback functions
+12. **[`12-arrays-and-array-methods.md`](12-arrays-and-array-methods.md)** - Arrays and array methods
+13. **[`13-objects.md`](13-objects.md)** - Objects
+14. **[`14-destructuring-spread-rest.md`](14-destructuring-spread-rest.md)** - Destructuring, spread, rest and other modern features
+15. **[`15-shallow-and-deep-copy.md`](15-shallow-and-deep-copy.md)** - Copying objects and arrays
+16. **[`16-scope-hoisting-closures.md`](16-scope-hoisting-closures.md)** - Scope and closures
+17. **[`17-this-constructors-classes.md`](17-this-constructors-classes.md)** - Constructors and classes
+
+### Part 3: Real Programs
+
+18. **Error Handling** - try, catch, finally and throw *(coming soon)*
+19. **JSON and Dates** - Working with JSON and dates *(coming soon)*
+20. **Map and Set** - Map and Set collections *(coming soon)*
+21. **Modules** - require, module.exports, import and export *(coming soon)*
+
+### Part 4: Async JavaScript
+
+22. **[`22-timers.md`](22-timers.md)** - setTimeout and setInterval
+23. **The Event Loop** - How JavaScript runs async code *(coming soon)*
+24. **[`24-promises.md`](24-promises.md)** - Promises
+25. **Async/Await and fetch** - async/await and calling APIs *(coming soon)*
+
+### Part 5: Mini Project
+
+26. **Mini Project** - A complete Node.js program using everything *(coming soon)*
 
 ## Features
 
