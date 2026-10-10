@@ -13,7 +13,7 @@ Follow these files in order for the best learning experience:
 ### Foundation Series (Start Here)
 
 1. **[`01-introduction-to-javascript.md`](01-introduction-to-javascript.md)** - Getting started with JavaScript
-2. **[`02-variables-and-scope.md`](02-variables-and-scope.md)** - Variables, declaration, and scope
+2. **[`02-variables-and-comments.md`](02-variables-and-comments.md)** - Variables (let, const, var), naming and comments
 3. **[`03-data-types.md`](03-data-types.md)** - Understanding different data types
 4. **[`04-template-literals-operators.md`](04-template-literals-operators.md)** - String templates and operators
 5. **[`05-string-methods.md`](05-string-methods.md)** - Working with strings effectively
