@@ -38,7 +38,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 18. **[`18-error-handling.md`](18-error-handling.md)** - try, catch, finally, throw, custom error classes and errors on a server
 19. **[`19-json-and-dates.md`](19-json-and-dates.md)** - JSON.stringify, JSON.parse, invalid JSON, dates, time zones and date math
 20. **[`20-map-and-set.md`](20-map-and-set.md)** - Map, Set, removing duplicates, caches, set operations and Maps in JSON
-21. **Modules** - require, module.exports, import and export *(coming soon)*
+21. **[`21-modules.md`](21-modules.md)** - require, module.exports, the module cache, ES modules with import and export, and project structure
 
 ### Part 4: Async JavaScript
 
