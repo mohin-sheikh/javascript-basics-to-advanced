@@ -36,7 +36,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 ### Part 3: Real Programs
 
 18. **[`18-error-handling.md`](18-error-handling.md)** - try, catch, finally, throw, custom error classes and errors on a server
-19. **JSON and Dates** - Working with JSON and dates *(coming soon)*
+19. **[`19-json-and-dates.md`](19-json-and-dates.md)** - JSON.stringify, JSON.parse, invalid JSON, dates, time zones and date math
 20. **Map and Set** - Map and Set collections *(coming soon)*
 21. **Modules** - require, module.exports, import and export *(coming soon)*
 
