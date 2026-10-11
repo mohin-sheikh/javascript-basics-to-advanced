@@ -20,7 +20,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 6. **[`06-conditionals.md`](06-conditionals.md)** - if, else, switch and the ternary operator
 7. **[`07-loops.md`](07-loops.md)** - for, while, do...while, for...of, break and continue
 8. **[`08-strings-and-template-literals.md`](08-strings-and-template-literals.md)** - Template literals, escape characters and string methods
-9. **[`09-numbers-and-math.md`](09-numbers-and-math.md)** - Numbers and Math methods
+9. **[`09-numbers-and-math.md`](09-numbers-and-math.md)** - Decimals, money in paise, rounding, Math methods and random numbers
 
 ### Part 2: Building Blocks
 
