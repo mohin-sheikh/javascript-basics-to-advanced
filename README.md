@@ -19,7 +19,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 5. **[`05-type-conversion.md`](05-type-conversion.md)** - Converting between strings, numbers and booleans
 6. **[`06-conditionals.md`](06-conditionals.md)** - if, else, switch and the ternary operator
 7. **[`07-loops.md`](07-loops.md)** - for, while, do...while, for...of, break and continue
-8. **[`08-strings-and-template-literals.md`](08-strings-and-template-literals.md)** - Working with strings
+8. **[`08-strings-and-template-literals.md`](08-strings-and-template-literals.md)** - Template literals, escape characters and string methods
 9. **[`09-numbers-and-math.md`](09-numbers-and-math.md)** - Numbers and Math methods
 
 ### Part 2: Building Blocks
