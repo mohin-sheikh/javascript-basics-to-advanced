@@ -25,7 +25,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 ### Part 2: Building Blocks
 
 10. **[`10-functions.md`](10-functions.md)** - Parameters, return, default values, arrow functions, call stack and recursion
-11. **[`11-callbacks-and-higher-order-functions.md`](11-callbacks-and-higher-order-functions.md)** - Callback functions
+11. **[`11-callbacks-and-higher-order-functions.md`](11-callbacks-and-higher-order-functions.md)** - Callbacks, higher-order functions, function factories, setTimeout and error-first callbacks
 12. **[`12-arrays-and-array-methods.md`](12-arrays-and-array-methods.md)** - Arrays and array methods
 13. **[`13-objects.md`](13-objects.md)** - Objects
 14. **[`14-destructuring-spread-rest.md`](14-destructuring-spread-rest.md)** - Destructuring, spread, rest and other modern features
