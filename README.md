@@ -35,7 +35,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 
 ### Part 3: Real Programs
 
-18. **Error Handling** - try, catch, finally and throw *(coming soon)*
+18. **[`18-error-handling.md`](18-error-handling.md)** - try, catch, finally, throw, custom error classes and errors on a server
 19. **JSON and Dates** - Working with JSON and dates *(coming soon)*
 20. **Map and Set** - Map and Set collections *(coming soon)*
 21. **Modules** - require, module.exports, import and export *(coming soon)*
