@@ -29,7 +29,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 12. **[`12-arrays-and-array-methods.md`](12-arrays-and-array-methods.md)** - push/pop, splice, map, filter, reduce, find, sorting numbers, slice, split and join
 13. **[`13-objects.md`](13-objects.md)** - Properties, nested objects, ?., Object.keys, arrays of objects and options objects
 14. **[`14-destructuring-spread-rest.md`](14-destructuring-spread-rest.md)** - Array and object destructuring, defaults, spread for copies and merges, rest parameters
-15. **[`15-shallow-and-deep-copy.md`](15-shallow-and-deep-copy.md)** - Copying objects and arrays
+15. **[`15-shallow-and-deep-copy.md`](15-shallow-and-deep-copy.md)** - References, shallow copies, structuredClone, and shared-data bugs on a server
 16. **[`16-scope-hoisting-closures.md`](16-scope-hoisting-closures.md)** - Scope and closures
 17. **[`17-this-constructors-classes.md`](17-this-constructors-classes.md)** - Constructors and classes
 
