@@ -1,5 +1,7 @@
 # this, Constructors and Classes
 
+> **Session 17 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is this?](#what-is-this)
 - [this Is Decided When the Function Is Called](#this-is-decided-when-the-function-is-called)
@@ -1368,3 +1370,9 @@ Yes, but like `let` and `const`: a class is in the temporal dead zone until its 
 ### When should you use a class instead of a factory function?
 
 Use a class when you create many objects of the same kind, need inheritance or `instanceof`, or work with libraries built on classes (`Error`, `EventEmitter`, Mongoose models). Use a factory function with a closure for one or a few objects, or when you prefer to avoid `this`. Both can keep data private.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [16. Scope, Hoisting and Closures](16-scope-hoisting-closures.md) | [Course outline](README.md#course-outline) | [18. Error Handling](18-error-handling.md) |

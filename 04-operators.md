@@ -1,5 +1,7 @@
 # Operators
 
+> **Session 4 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is an Operator](#what-is-an-operator)
 - [Types of Operators](#types-of-operators)
@@ -171,6 +173,7 @@ console.log(-2 ** 2);
 ```
 
 ```text
+D:\js-practice\exp-error.js:1
 console.log(-2 ** 2);
             ^^^^^
 
@@ -953,3 +956,9 @@ It is unclear whether you mean `(-2) ** 2` or `-(2 ** 2)`, so JavaScript require
 ### What does x += 5 mean?
 
 It is short for `x = x + 5`.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [03. Data Types](03-data-types.md) | [Course outline](README.md#course-outline) | [05. Type Conversion](05-type-conversion.md) |

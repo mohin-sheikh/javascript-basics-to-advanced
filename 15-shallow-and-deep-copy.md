@@ -1,5 +1,7 @@
 # Shallow and Deep Copy
 
+> **Session 15 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [Values and References](#values-and-references)
 - [Functions Get the Same Object](#functions-get-the-same-object)
@@ -844,3 +846,9 @@ No. Functions throw a `DataCloneError`, and objects made from classes are copied
 ### Is copying expensive?
 
 A shallow copy is cheap. A deep copy visits every nested value, which takes time and memory for big objects. Copy only what you change, as deep as you change it.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [14. Destructuring, Spread and Rest](14-destructuring-spread-rest.md) | [Course outline](README.md#course-outline) | [16. Scope, Hoisting and Closures](16-scope-hoisting-closures.md) |

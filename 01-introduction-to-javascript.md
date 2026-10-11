@@ -1,5 +1,7 @@
 # Introduction to JavaScript
 
+> **Session 1 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is JavaScript](#what-is-javascript)
 - [Frontend and Backend](#frontend-and-backend)
@@ -67,8 +69,9 @@ This course teaches the JavaScript **language**. You run every example with Node
 | Basics              | 1 to 9   | Variables, data types, operators, conditions, loops, strings, numbers |
 | Building blocks     | 10 to 17 | Functions, arrays, objects, closures, classes               |
 | Real programs       | 18 to 21 | Error handling, JSON, Map and Set, modules                  |
-| Async JavaScript    | 22 to 25 | Timers, the event loop, promises, async/await               |
-| Mini project        | 26       | A complete Node.js program using everything                 |
+| Async JavaScript    | 22 to 25 | Timers, the event loop, promises, async/await, fetch        |
+
+Every session ends with mini examples that combine its topics into small, real backend programs, followed by beginner mistakes, practice exercises and interview questions.
 
 After this course comes the **Node.js course**: servers, APIs and databases. It uses everything you learn here, in the same style.
 
@@ -764,3 +767,9 @@ Yes. `console.log` works, but `Console.log` and `console.Log` give errors.
 ### What are the three most common error types?
 
 `SyntaxError` (code written incorrectly), `ReferenceError` (unknown name) and `TypeError` (something used the wrong way).
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| This is the first session | [Course outline](README.md#course-outline) | [02. Variables and Comments](02-variables-and-comments.md) |

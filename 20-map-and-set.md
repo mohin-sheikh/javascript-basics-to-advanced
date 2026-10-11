@@ -1,5 +1,7 @@
 # Map and Set
 
+> **Session 20 of 25** | Part 3: Real Programs | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [Why Map and Set?](#why-map-and-set)
 - [Map Basics](#map-basics)
@@ -1007,3 +1009,9 @@ Versions of Map and Set whose keys (or values, for WeakSet) must be objects, hel
 ### What does Map.groupBy do?
 
 `Map.groupBy(array, callback)` (Node.js 21+) groups the items of an array into a Map: the callback returns a key for each item, and each key maps to an array of the items with that key. `Object.groupBy` does the same and returns a plain object.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [19. JSON and Dates](19-json-and-dates.md) | [Course outline](README.md#course-outline) | [21. Modules](21-modules.md) |

@@ -1,5 +1,7 @@
 # Scope, Hoisting and Closures
 
+> **Session 16 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is Scope?](#what-is-scope)
 - [Top-Level Scope in a Node.js File](#top-level-scope-in-a-nodejs-file)
@@ -1316,3 +1318,9 @@ Node.js wraps every CommonJS file in a function, `(function (exports, require, m
 ### Can closures cause memory leaks?
 
 Yes. A closure keeps its variables alive as long as the function exists. If a long-lived closure keeps adding to an object or array (a cache, a list of requests), memory grows until the server crashes. Limit the size, remove old entries, or let the function go when it is no longer needed.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [15. Shallow and Deep Copy](15-shallow-and-deep-copy.md) | [Course outline](README.md#course-outline) | [17. this, Constructors and Classes](17-this-constructors-classes.md) |

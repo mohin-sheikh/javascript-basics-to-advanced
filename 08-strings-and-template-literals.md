@@ -1,5 +1,7 @@
 # Strings and Template Literals
 
+> **Session 8 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [Strings on a Server](#strings-on-a-server)
 - [Length and Indexes](#length-and-indexes)
@@ -104,7 +106,7 @@ escapes.js
 ```javascript
 console.log("Line 1\nLine 2");
 console.log("Name:\tSara");
-console.log("She said \"hi\"");
+console.log("Riya said \"hi\"");
 console.log('It\'s fine');
 console.log("C:\\Users\\sara");
 ```
@@ -115,7 +117,7 @@ Output
 Line 1
 Line 2
 Name:	Sara
-She said "hi"
+Riya said "hi"
 It's fine
 C:\Users\sara
 ```
@@ -450,7 +452,7 @@ false
 true
 ```
 
-Without `toLowerCase()`, Sara could not log in just because she typed a capital S. That is why the Node.js course saves emails in lowercase and lowercases the email at login (Node.js course, Sessions 19 and 22).
+Without `toLowerCase()`, Sara could not log in just because of one capital S. That is why the Node.js course saves emails in lowercase and lowercases the email at login (Node.js course, Sessions 19 and 22).
 
 ---
 
@@ -1272,3 +1274,9 @@ Wrap it in `encodeURIComponent()`. It turns special characters like spaces, `&` 
 ### What is method chaining?
 
 Calling a method on the result of another method, like `text.trim().toLowerCase()`. It works because each string method returns a new string. The calls run left to right.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [07. Loops](07-loops.md) | [Course outline](README.md#course-outline) | [09. Numbers and Math](09-numbers-and-math.md) |

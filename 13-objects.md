@@ -1,5 +1,7 @@
 # Objects
 
+> **Session 13 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is an Object?](#what-is-an-object)
 - [Creating an Object](#creating-an-object)
@@ -1226,3 +1228,9 @@ Each value is named, so calls are easy to read; the order does not matter; and o
 ### Can you change a const object?
 
 Yes, its properties can be added, changed and deleted. `const` only prevents assigning a different object to the variable. `Object.freeze()` stops changes to the object's properties.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [12. Arrays and Array Methods](12-arrays-and-array-methods.md) | [Course outline](README.md#course-outline) | [14. Destructuring, Spread and Rest](14-destructuring-spread-rest.md) |

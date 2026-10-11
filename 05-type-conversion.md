@@ -1,5 +1,7 @@
 # Type Conversion
 
+> **Session 5 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is Type Conversion](#what-is-type-conversion)
 - [Explicit and Implicit Conversion](#explicit-and-implicit-conversion)
@@ -410,7 +412,7 @@ true
 true
 ```
 
-![Values are sorted into two boxes: 8 falsy values and everything else truthy, including "0", "false", [] and {}](images/05-type-conversion/truthy-falsy.gif)
+![Values are sorted into two boxes: 8 falsy values and everything else truthy, including "0", "false", an empty array and an empty object](images/05-type-conversion/truthy-falsy.gif)
 
 | Falsy (only these 8)                                       | Truthy (examples)                          |
 | ---------------------------------------------------------- | ------------------------------------------ |
@@ -783,3 +785,9 @@ It converts a value to a boolean, like `Boolean()`. `!!"Sara"` is `true`, `!!""`
 ### How do you safely convert user input to a number?
 
 Convert with `Number()` (or `parseInt(x, 10)`), check the result with `Number.isFinite()`, and only then use it.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [04. Operators](04-operators.md) | [Course outline](README.md#course-outline) | [06. Conditionals](06-conditionals.md) |

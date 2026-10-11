@@ -1,5 +1,7 @@
 # Variables and Comments
 
+> **Session 2 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is a Variable](#what-is-a-variable)
 - [Creating a Variable with let](#creating-a-variable-with-let)
@@ -872,6 +874,10 @@ console.log("Hello");
 ```
 
 ```text
+D:\js-practice\nested.js:3
+   This line is no longer inside a comment
+        ^^^^
+
 SyntaxError: Unexpected identifier 'line'
 ```
 
@@ -968,3 +974,9 @@ Single-line `//`, multi-line `/* */`, and doc comments `/** */` that tools and e
 ### Does changing one variable change a copy of it?
 
 For numbers and text, no: `let b = a` copies the value, so changing `a` later does not change `b`. Objects and arrays are different (Session 15).
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [01. Introduction to JavaScript](01-introduction-to-javascript.md) | [Course outline](README.md#course-outline) | [03. Data Types](03-data-types.md) |

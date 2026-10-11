@@ -1,5 +1,7 @@
 # The Event Loop
 
+> **Session 23 of 25** | Part 4: Async JavaScript | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [One Thread, Many Requests](#one-thread-many-requests)
 - [The Parts of the Event Loop](#the-parts-of-the-event-loop)
@@ -738,3 +740,9 @@ Measure how late a regular timer fires compared to when it should (like [Mini Ex
 ### Where do promise callbacks go?
 
 Into the microtask queue. A `.then` callback runs after the current code and before any timer or I/O callback, together with other microtasks (Session 24).
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [22. Timers](22-timers.md) | [Course outline](README.md#course-outline) | [24. Promises](24-promises.md) |

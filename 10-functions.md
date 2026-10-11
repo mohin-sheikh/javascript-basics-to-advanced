@@ -1,5 +1,7 @@
 # Functions
 
+> **Session 10 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is a Function?](#what-is-a-function)
 - [Declaring and Calling a Function](#declaring-and-calling-a-function)
@@ -1669,3 +1671,9 @@ The list of functions that are running right now. Calling a function puts it on 
 ### What does "functions are first-class" mean in JavaScript?
 
 Functions are values, like numbers and strings. They can be stored in variables, passed into other functions and returned from functions. Callbacks (Session 11) and closures (Session 16) are built on this.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [09. Numbers and Math](09-numbers-and-math.md) | [Course outline](README.md#course-outline) | [11. Callbacks and Higher-Order Functions](11-callbacks-and-higher-order-functions.md) |

@@ -1,5 +1,7 @@
 # Numbers and Math
 
+> **Session 9 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [Numbers in JavaScript](#numbers-in-javascript)
 - [Decimal Numbers Are Not Exact](#decimal-numbers-are-not-exact)
@@ -1037,3 +1039,9 @@ A page that is only partly full is still a page. 47 items with 10 per page is 4.
 ### What is the largest whole number JavaScript can store exactly?
 
 `Number.MAX_SAFE_INTEGER`, which is `9007199254740991` (Session 03). Above it, use `BigInt`, or store big ids as strings.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [08. Strings and Template Literals](08-strings-and-template-literals.md) | [Course outline](README.md#course-outline) | [10. Functions](10-functions.md) |

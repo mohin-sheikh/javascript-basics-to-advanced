@@ -1,5 +1,7 @@
 # JSON and Dates
 
+> **Session 19 of 25** | Part 3: Real Programs | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is JSON?](#what-is-json)
 - [JSON Rules](#json-rules)
@@ -1154,3 +1156,9 @@ The Date created from text JavaScript cannot understand, like `new Date("tomorro
 ### Why do dates come back as strings after JSON.parse?
 
 JSON has no date type. `JSON.stringify` writes dates as ISO text, and `JSON.parse` has no way to know that a string was a date, so it leaves it as text. Convert it back with `new Date(text)`.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [18. Error Handling](18-error-handling.md) | [Course outline](README.md#course-outline) | [20. Map and Set](20-map-and-set.md) |

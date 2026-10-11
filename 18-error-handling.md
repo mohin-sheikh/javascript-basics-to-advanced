@@ -1,5 +1,7 @@
 # Error Handling
 
+> **Session 18 of 25** | Part 3: Real Programs | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What Happens When an Error Is Thrown](#what-happens-when-an-error-is-thrown)
 - [try...catch](#trycatch)
@@ -1115,3 +1117,9 @@ Both check the type, and both are better than comparing messages. `instanceof` a
 ### Why is an empty catch block dangerous?
 
 It "swallows" the error: the program carries on with missing or wrong data, and nobody learns what went wrong. Always handle the error in a useful way, log it, or let it travel up.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [17. this, Constructors and Classes](17-this-constructors-classes.md) | [Course outline](README.md#course-outline) | [19. JSON and Dates](19-json-and-dates.md) |

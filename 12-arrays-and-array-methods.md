@@ -1,5 +1,7 @@
 # Arrays and Array Methods
 
+> **Session 12 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is an Array?](#what-is-an-array)
 - [Creating an Array](#creating-an-array)
@@ -1282,3 +1284,9 @@ Yes. `sort` and `reverse` change the array in place. `toSorted` and `toReversed`
 ### How do you remove duplicates from an array?
 
 `arr.filter((item, index) => arr.indexOf(item) === index)` keeps each value only at its first position. A shorter way with `Set` is shown in Session 20.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [11. Callbacks and Higher-Order Functions](11-callbacks-and-higher-order-functions.md) | [Course outline](README.md#course-outline) | [13. Objects](13-objects.md) |

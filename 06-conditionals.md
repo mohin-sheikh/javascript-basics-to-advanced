@@ -1,5 +1,7 @@
 # Conditionals
 
+> **Session 6 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What are Conditionals](#what-are-conditionals)
 - [The if Statement](#the-if-statement)
@@ -961,3 +963,9 @@ No. An `if` can stand alone, and an `if...else if` chain can end without `else`.
 ### How would you validate user input before using it?
 
 Convert it to the right type, then check each requirement in turn (type, range, required fields). Handle the failures first and do the main work only when everything passes.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [05. Type Conversion](05-type-conversion.md) | [Course outline](README.md#course-outline) | [07. Loops](07-loops.md) |

@@ -1,5 +1,7 @@
 # Destructuring, Spread and Rest
 
+> **Session 14 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What Are Destructuring, Spread and Rest?](#what-are-destructuring-spread-and-rest)
 - [Array Destructuring](#array-destructuring)
@@ -1066,3 +1068,9 @@ With rest destructuring: `const { password, ...safeUser } = user;` creates `safe
 ### Why is Math.max(arr) NaN, but Math.max(...arr) works?
 
 `Math.max` expects separate numbers. Passing the array gives it one non-number argument. Spread turns the array into separate arguments.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [13. Objects](13-objects.md) | [Course outline](README.md#course-outline) | [15. Shallow and Deep Copy](15-shallow-and-deep-copy.md) |

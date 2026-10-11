@@ -1,5 +1,7 @@
 # Timers
 
+> **Session 22 of 25** | Part 4: Async JavaScript | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [Timers in a Node.js Server](#timers-in-a-nodejs-server)
 - [setTimeout](#settimeout)
@@ -924,3 +926,9 @@ Start a `setTimeout` that answers with a timeout error, and start the operation.
 ### Why should you not use setTimeout to schedule work days ahead?
 
 Timers live only in the memory of one running process. A restart or deploy deletes them, two servers would each run their own, and delays over about 24.8 days overflow. Long-term jobs belong in a database with a scheduler or job queue.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [21. Modules](21-modules.md) | [Course outline](README.md#course-outline) | [23. The Event Loop](23-event-loop.md) |

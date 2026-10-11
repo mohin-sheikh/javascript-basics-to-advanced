@@ -1,5 +1,7 @@
 # Loops
 
+> **Session 7 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What are Loops](#what-are-loops)
 - [The for Loop](#the-for-loop)
@@ -1332,3 +1334,9 @@ No. It stops only the loop it is in, the innermost one. The outer loop continues
 ### What is the difference between for...of and for...in?
 
 `for...of` gives the values: the characters of a string, or the items of an array (Session 12). `for...in` gives the keys (property names) of an object (Session 13).
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [06. Conditionals](06-conditionals.md) | [Course outline](README.md#course-outline) | [08. Strings and Template Literals](08-strings-and-template-literals.md) |

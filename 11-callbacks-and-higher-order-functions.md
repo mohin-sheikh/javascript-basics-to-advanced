@@ -1,5 +1,7 @@
 # Callbacks and Higher-Order Functions
 
+> **Session 11 of 25** | Part 2: Building Blocks | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is a Callback?](#what-is-a-callback)
 - [Pass the Function, Do Not Call It](#pass-the-function-do-not-call-it)
@@ -1099,3 +1101,9 @@ Yes. `repeat`, `forEachChar` and array methods like `forEach` call it once per i
 ### What are first-class functions?
 
 Functions that can be treated like any other value: stored in variables, passed as arguments and returned from functions. JavaScript has them, and that is why callbacks and higher-order functions work.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [10. Functions](10-functions.md) | [Course outline](README.md#course-outline) | [12. Arrays and Array Methods](12-arrays-and-array-methods.md) |

@@ -1,5 +1,7 @@
 # Modules
 
+> **Session 21 of 25** | Part 3: Real Programs | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is a Module?](#what-is-a-module)
 - [Your First Module](#your-first-module)
@@ -1185,3 +1187,9 @@ It marks a built-in Node.js module: `require("node:path")`, `import fs from "nod
 ### Why split code into modules?
 
 Each file stays small and has one job, names do not clash, details stay private behind exports, code can be reused and tested on its own, and a team can work on different files at the same time.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [20. Map and Set](20-map-and-set.md) | [Course outline](README.md#course-outline) | [22. Timers](22-timers.md) |

@@ -1,5 +1,7 @@
 # Data Types
 
+> **Session 3 of 25** | Part 1: Basics | [All sessions](README.md#course-outline)
+
 ## Table of Contents
 - [What is a Data Type](#what-is-a-data-type)
 - [The 8 Data Types](#the-8-data-types)
@@ -101,7 +103,7 @@ quotes-inside.js
 
 ```javascript
 const message = "It's sunny";
-const quote = 'She said "Hi"';
+const quote = 'Riya said "Hi"';
 console.log(message);
 console.log(quote);
 ```
@@ -110,7 +112,7 @@ Output
 
 ```text
 It's sunny
-She said "Hi"
+Riya said "Hi"
 ```
 
 With the same kind of quote, the string ends too early
@@ -122,6 +124,7 @@ const message = 'It's sunny';
 ```
 
 ```text
+D:\js-practice\quotes-error.js:1
 const message = 'It's sunny';
                     ^
 
@@ -255,6 +258,7 @@ const total = 10n + 5;
 ```
 
 ```text
+D:\js-practice\bigint-mix.js:1
 const total = 10n + 5;
                   ^
 
@@ -875,3 +879,9 @@ A primitive value that is always unique, even if two symbols have the same descr
 ### Why does it matter on a server whether a value is a string or a number?
 
 Data from URLs and forms arrives as strings. `"25" + 5` gives `"255"`, not `30`, so the server must convert values to the right type before calculating.
+
+---
+
+| Previous | All sessions | Next |
+| :--- | :---: | ---: |
+| [02. Variables and Comments](02-variables-and-comments.md) | [Course outline](README.md#course-outline) | [04. Operators](04-operators.md) |
