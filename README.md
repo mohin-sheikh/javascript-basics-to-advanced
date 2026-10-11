@@ -42,7 +42,7 @@ The course is being updated to a new order. Follow the sessions in this order:
 
 ### Part 4: Async JavaScript
 
-22. **[`22-timers.md`](22-timers.md)** - setTimeout and setInterval
+22. **[`22-timers.md`](22-timers.md)** - setTimeout, setInterval, cancelling, retries with backoff, debouncing, timeouts and background jobs
 23. **The Event Loop** - How JavaScript runs async code *(coming soon)*
 24. **[`24-promises.md`](24-promises.md)** - Promises
 25. **Async/Await and fetch** - async/await and calling APIs *(coming soon)*
